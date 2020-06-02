@@ -1,0 +1,30 @@
+.main {
+  background-color: black;
+  color: white;
+  width: 900px;
+}
+  /* head */
+.header {
+  height: 80px;
+  border-bottom: 3px solid silver;
+  background-color: red;
+}
+.header h1 {
+  font-size: 60px;
+  padding: 10px;
+}
+
+  /* main */
+    /* copy-container */
+    /* contents */
+h1 {
+  margin: 15px;
+}
+
+.a {
+  font-size: 28px;
+  border-bottom:1px solid gray;
+}
+.A {
+  padding-top: 30px;
+}
